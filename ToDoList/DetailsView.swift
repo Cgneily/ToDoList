@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct DetailsView: View {
+   
    var passedValue: String
    @Environment(\.dismiss) private var dismiss
    
